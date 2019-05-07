@@ -30,5 +30,7 @@ To scrape data using BeautifulSoup follow this tutorial:
 
 ## Contributor
 Fahad Khalid (fahadkhalid210@gmail.com)
+
 [SmartSpidering](https://www.smartspidering.com/)
+
 [Youtube](https://www.youtube.com/channel/UCJGvnFtcckNkNlx5E20nZyg)
