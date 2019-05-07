@@ -25,3 +25,6 @@ To scrape data using BeautifulSoup follow this tutorial:
 * [Practical Web Scraping using Python](https://www.blog.smartspidering.com/practical-web-scraping-using-python/)
 
 **[Source Code](beautifulsoup_scrapper.py)** 
+
+## Contributor
+[Fahad Khalid (fahadkhalid210@gmail.com)](https://www.smartspidering.com/)
