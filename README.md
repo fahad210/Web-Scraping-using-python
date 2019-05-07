@@ -13,6 +13,8 @@ It consists of scraping valuable business information and compiling it in a spre
 ### Using Selenium Webdriver
 To scrape data using selenium python you need to install selenium webdriver. Please follow these tutorials:
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ePMGsFDRrPg/0.jpg)](http://www.youtube.com/watch?v=ePMGsFDRrPg)
+
 * [Install Selenium Python WebDriver](https://www.blog.smartspidering.com/install-selenium-python-webdriver/)
 * [Practical Web Scraping using Python](https://www.blog.smartspidering.com/practical-web-scraping-using-python/)
 
