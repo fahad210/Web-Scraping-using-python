@@ -29,8 +29,10 @@ To scrape data using BeautifulSoup follow this tutorial:
 **[Source Code](beautifulsoup_scrapper.py)** 
 
 ## Contributor
-Fahad Khalid (fahadkhalid210@gmail.com)
+Fahad Khalid
 
-[SmartSpidering](https://www.smartspidering.com/)
+**Email: fahadkhalid210@gmail.com** 
 
-[Youtube](https://www.youtube.com/channel/UCJGvnFtcckNkNlx5E20nZyg)
+**[SmartSpidering](https://www.smartspidering.com/)**
+
+**[Youtube](https://www.youtube.com/channel/UCJGvnFtcckNkNlx5E20nZyg)**
