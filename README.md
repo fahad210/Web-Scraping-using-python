@@ -24,4 +24,4 @@ To scrape data using BeautifulSoup follow this tutorial:
 * [Install Selenium Python WebDriver](https://www.blog.smartspidering.com/install-selenium-python-webdriver/)
 * [Practical Web Scraping using Python](https://www.blog.smartspidering.com/practical-web-scraping-using-python/)
 
-**[Source Code](beautifulsoup scrapper.py)** 
+**[Source Code](beautifulsoup_scrapper.py)** 
