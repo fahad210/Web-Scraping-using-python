@@ -23,8 +23,9 @@ To scrape data using selenium python you need to install selenium webdriver. Ple
 ### Using BeautifulSoup
 To scrape data using BeautifulSoup follow this tutorial:
 
-* [Install Selenium Python WebDriver](https://www.blog.smartspidering.com/install-selenium-python-webdriver/)
-* [Practical Web Scraping using Python](https://www.blog.smartspidering.com/practical-web-scraping-using-python/)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Vf4Zb75QxpI/0.jpg)](http://www.youtube.com/watch?v=Vf4Zb75QxpI)
+
+* [Python Web Scraping using BeautifulSoup](https://www.blog.smartspidering.com/python-web-scraping-using-beautifulsoup/)
 
 **[Source Code](beautifulsoup_scrapper.py)** 
 
